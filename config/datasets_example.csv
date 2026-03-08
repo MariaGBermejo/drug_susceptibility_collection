@@ -1,0 +1,17 @@
+dataset,directory
+raw_ccle_reads,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/OmicsExpressionExpectedCountHumanAllGenes_DepMap25Q3.csv
+ccle_default_line,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/OmicsProfiles_DepMap25Q3.csv
+hgnc_protein_coding,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/hgnc_gene_with_protein_product_2026-02-20.tsv
+celligner_data,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/celligner_info.csv
+ccle_sample_info,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/Model_DepMap25Q3.csv
+prism_response_curves,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/secondary-screen-dose-response-curve-parameters.csv
+prism_treatment_info,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/secondary-screen-replicate-collapsed-treatment-info.csv
+gdsc_response_curves,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/GDSC2_fitted_dose_response_27Oct23.xlsx
+gdsc_compound_meta,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/gdsc_compound_meta.csv
+crispr_gene_dependency_chronos,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/CRISPRGeneDependency_25Q3.csv
+ctrp_response_curves,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/v20.data.curves_post_qc.txt
+ctrp_compound_meta,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/v20.meta.per_compound.txt
+ctrp_cell_meta,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/v20.meta.per_cell_line.txt
+ctrp_experiment_meta,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/v20.meta.per_experiment.txt
+met_experiment_data,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/metastasis_potential.csv
+hallmarks,/storage/scratch01/users/mgonzalezb/drug_susceptibility_collection/datasets/h.all.v2026.1.Hs.symbols.gmt.txt
